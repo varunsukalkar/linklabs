@@ -45,7 +45,7 @@ To simulate real-world data communication techniques with detailed visual steps.
 To create a practical mobile toolkit that simplifies complex networking algorithms.
 
 📸 Screenshots
-(Add screenshots here if you have them!)
+<img src=""E:\WhatsApp Image 2024-10-26 at 7.36.02 AM (2).jpeg"" alt="description" width="300"/>
 
 🚀 Future Plans
 Add more network protocols and simulations
